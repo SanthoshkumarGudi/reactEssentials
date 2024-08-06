@@ -60,6 +60,7 @@ main h2 {
 }
 
 #core-concepts li h3 {
+  text-align: center;
   margin: 0.5rem 0;
 }
 
