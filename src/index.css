@@ -27,6 +27,8 @@ main {
 #core-concepts {
   padding: 2rem;
   border-radius: 6px;
+  margin-left:20%;
+  margin-right:20%;
   background-color: #140524;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
@@ -59,6 +61,15 @@ main h2 {
   object-fit: cover;
 }
 
+#core-concepts h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+
 #core-concepts li h3 {
   text-align: center;
   margin: 0.5rem 0;
@@ -69,7 +80,8 @@ main h2 {
 }
 
 #examples {
-  margin: 3rem auto;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 #examples h2 {
@@ -77,8 +89,8 @@ main h2 {
 }
 
 #examples menu {
-  margin: 1rem 0;
-  padding: 0;
+  margin: 2rem ;
+  padding: 50 50;
   display: flex;
   gap: 0.5rem;
   list-style: none;
