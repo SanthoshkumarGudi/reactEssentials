@@ -8,7 +8,6 @@ import TabButton from "./components/TabButton";
 import CoreConcept from "./components/CoreConcept";
 import Examples from "./components/Examples";
 
-
 function App() {
 
   return (
